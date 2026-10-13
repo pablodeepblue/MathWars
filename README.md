@@ -1,5 +1,7 @@
 # MathWars
 
+Made this project for a game design course in university.
+
 Tower Defense game for Unity
 
 ## How To Run
