@@ -1,6 +1,6 @@
 # MathWars
 
-Made this project for a game design course in university.
+Made this project for a game design course in university in a group project (pghezzi).
 
 Tower Defense game for Unity
 
