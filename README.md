@@ -4,6 +4,14 @@ Made this project for a game design course in university in a group project (pgh
 
 Tower Defense game for Unity
 
+
+
+https://github.com/user-attachments/assets/97b18a76-49fe-4547-97b8-ceb89c027203
+
+[Link to full video demo](https://drive.google.com/file/d/180HmkAc5VBfH6DFpQH9-DXsiG8zI1HHJ/view)
+
+
+
 ## How To Run
 
 - Please make sure that all scenes will be built in the build settings
